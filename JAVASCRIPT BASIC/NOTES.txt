@@ -1,0 +1,27 @@
+client side execution
+validation on browser
+### 1. Client-side validation is not secure ###
+Client-side validation can be easily bypassed, making it unreliable for security purposes. It should only be used to provide a better
+
+Disadvantage :
+
+less secure
+no harware access
+limited to the user's machine
+can be easily disabled or manipulated by users
+Advantages:
+faster than server-side validation
+allows immediate feedback to the user
+simpler and more intuitive for end-users
+### 2. How can we implement it in JavaScript? ###
+javascript
+html.
+
+WAY OF ADDING JAVASCRIPT:
+INLINE
+LINKED (external .js file)
+BOTH - INTERNAL AND EXTERNAL
+
+INLINE :  INSIDE GEAD TAG & INSIDE BODY TAG .
+EXTERNAL : INSIDE HEAD TAG & INSIDE BODY TAG
+
